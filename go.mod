@@ -19,6 +19,5 @@ require (
 	github.com/rthornton128/goncurses v0.0.0-20200419155752-a72cfe131f63
 	github.com/stretchr/testify v1.6.1 // indirect
 	github.com/willf/pad v0.0.0-20160331131008-b3d780601022
-	go4.org v0.0.0-20180103061921-fba789b7e39b // indirect
-	golang.org/x/net v0.0.0-20180306060152-d25186b37f34 // indirect
+	go4.org v0.0.0-20200411211856-f5505b9728dd // indirect
 )
