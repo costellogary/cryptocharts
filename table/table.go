@@ -13,7 +13,7 @@ import (
 
 	slice "sort"
 	humanize "github.com/dustin/go-humanize"
-	cmc "github.com/miguelmota/go-coinmarketcap"
+	cmc "github.com/miguelmota/go-coinmarketcap/pro/v1"
 	gc "github.com/rthornton128/goncurses"
 	pad "github.com/willf/pad/utf8"
 )
