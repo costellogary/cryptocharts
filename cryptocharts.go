@@ -10,7 +10,7 @@ import (
 	humanize "github.com/dustin/go-humanize"
 	ui "github.com/gizak/termui"
 	table "github.com/miguelmota/cryptocharts/table"
-	cmc "github.com/miguelmota/go-coinmarketcap"
+	cmc "github.com/miguelmota/go-coinmarketcap/pro/v1"
 )
 
 // RenderChartDash renders chart dash
