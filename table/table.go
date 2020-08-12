@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	slice "github.com/bradfitz/slice"
+	slice "sort"
 	humanize "github.com/dustin/go-humanize"
 	cmc "github.com/miguelmota/go-coinmarketcap"
 	gc "github.com/rgburke/goncurses"
