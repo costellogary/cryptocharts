@@ -8,7 +8,7 @@ import (
 	"time"
 
 	humanize "github.com/dustin/go-humanize"
-	ui "github.com/gizak/termui"
+	ui "github.com/gizak/termui/v3"
 	table "github.com/miguelmota/cryptocharts/table"
 	cmc "github.com/miguelmota/go-coinmarketcap/pro/v1" 
 )
